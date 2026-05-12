@@ -58,7 +58,7 @@ const ModuleWelcome = ({ onComplete }) => (
       <Card className="p-6 border-t-4 border-t-purple-500">
         <Users className="w-10 h-10 text-purple-500 mb-4" />
         <h3 className="text-xl font-bold text-slate-800 mb-2">The Value We Bring</h3>
-        <p className="text-slate-600 text-sm">We provide localized cloud consulting, complex migration support, enterprise-grade reliability, and regional compliance guidance—all backed by ongoing technical support in local languages.</p>
+        <p className="text-slate-600 text-sm">We provide localized cloud consulting, complex migration support, enterprise-grade reliability, and regional compliance guidance—all backed by ongoing technical support.</p>
       </Card>
       <Card className="p-6 border-t-4 border-t-emerald-500">
         <Award className="w-10 h-10 text-emerald-500 mb-4" />
